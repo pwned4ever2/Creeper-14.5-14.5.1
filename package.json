@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RPwnage/pwn-my.git"
+    "url": "git+ https://github.com/Solarjailbreak/Creeper-14.5-14.5.1"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RPwnage/pwn-my/issues"
+    "url": "https://github.com/Solarjailbreak/Creeper-14.5-14.5.1/issues"
   },
-  "homepage": "https://github.com/RPwnage/pwn-my#readme",
+  "homepage": "https://github.com/Solarjailbreak/Creeper-14.5-14.5.1/blob/main/README.md",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7",
